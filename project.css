@@ -56,3 +56,22 @@ button{
     display: block;
     margin-bottom: 10px;
 }
+.button1{
+  width: 100%;
+}
+.button2{
+  width: 100%;
+}
+.button3{
+  width: 100%;
+}
+.button4{
+  width: 100%;
+}
+.button5{
+  width: 100%;
+}
+h3{
+  text-align: center;
+  text-size-adjust: inherit;
+}
